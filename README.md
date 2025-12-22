@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Svachuta Gollavilli</h1>
+<h1 align="center">Hi 👋, I'm Svachuta Siva Sai Krishna Prasad Gollavilli</h1>
 
 Glad to see you here! This is my Github Profile and I breathe ideas and code here.
 
